@@ -22,7 +22,21 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Using ```gem 'rails-assets-sweetalert'```
+
+application.js:
+
+```javascript
+//= require sweetalert
+```
+application.css:
+
+```css
+/*
+ *= require sweetalert
+ */
+```
+
 
 ## Development
 
