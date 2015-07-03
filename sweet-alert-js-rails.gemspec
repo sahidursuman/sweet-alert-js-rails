@@ -9,9 +9,9 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Sahidur Rahman Suman"]
   spec.email         = ["suman5040@gmail.com"]
 
-  spec.summary       = %q{TODO: Write a short summary, because Rubygems requires one.}
-  spec.description   = %q{TODO: Write a longer description or delete this line.}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.summary       = %q{Sweet alert ruby gem is a interactive popup}
+  spec.description   = %q{Sweet alert ruby gem is a beautiful replacement for JavaScript's Alert}
+  spec.homepage      = "https://github.com/suman5040/sweet-alert-js-rails"
 
   # Prevent pushing this gem to RubyGems.org by setting 'allowed_push_host', or
   # delete this section to allow pushing this gem to any host.
